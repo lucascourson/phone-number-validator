@@ -1,0 +1,55 @@
+body {
+    background-image: url("https://img.wallpapersafari.com/desktop/1920/1080/37/29/kT7XN5.jpg");
+}
+
+#input {
+    background-color: rgba(102, 224, 233, 0.397);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+#head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(253, 253, 255);
+    font-family: "Courier New", Monospace;
+}
+
+#inputboxdiv {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#textdiv {
+    position: absolute;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    text-align: center;
+    height: 20px;
+    
+}
+
+#inputbox {
+    background-color: rgb(32, 214, 168);
+    border-color: rgb(7, 248, 188);
+    font-size: 20px;
+}
+
+#btn {
+    font-size: 20px;
+    background-color: rgb(32, 214, 168);
+    border-color: rgb(24, 170, 134);
+    font-family: "Courier New", Monospace;
+    
+}
+
+
+
